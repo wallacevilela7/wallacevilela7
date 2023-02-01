@@ -2,7 +2,7 @@ Olá! Seja Bem Vindo(a)! Eu sou Wallace Vilela 👋
 
 
 - 🔭 Hoje trabalho com front-end 
-- 🌱 Estudando Javascript/Typescript 
+- 🌱 Estudando Javascript/Typescript e C# .Net
 - 📫 Contato: wallace.vilela9@outlook.com
 
 Linguagens Mais Utilizadas:
