@@ -1,8 +1,6 @@
 Hello! Welcome! I'm Wallace Vilela 👋
-
-
-- 🔭 Front-end 
-- 🌱 Currently studying Javascript/Typescript and C# .Net
+ 
+- 🌱 Currently studying Typescript and C# .Net
 - 📫 Contact me: wallace.vilela9@outlook.com
 
 Used languages:
