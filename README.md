@@ -12,13 +12,13 @@ Used languages:
   <img align="center" alt="React" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Csharp" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-/*
+
 <div>
   <a href="https://github.com/wallacevilela7">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallacevilela7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacevilela7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-*/
+
 <div style="margin-top:200px"><br>
   Social:<br>
   <a href="https://www.linkedin.com/in/wallace-vilela-538728247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
