@@ -1,6 +1,6 @@
 Welcome! I'm Wallace Vilela 👋
  
-- 🌱 Currently studying Typescript and C# .Net
+- Currently studying C# .Net, ASP.Net, SQL, SQL Server.
 - 📫 Contact me: wallace.vilela9@outlook.com
 
 <div style="display:block">
