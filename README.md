@@ -1,4 +1,4 @@
-Hello! Welcome! I'm Wallace Vilela 👋
+Welcome! I'm Wallace Vilela 👋
  
 - 🌱 Currently studying Typescript and C# .Net
 - 📫 Contact me: wallace.vilela9@outlook.com
