@@ -1,16 +1,14 @@
-Olá, sou Wallace Vilela 👋
- 
-- Atualmente estou estudando C# .Net, ASP.Net, SQL, SQL Server.
-- 📫 Entre em contato: wallace.vilela9@outlook.com
+<h1>Hi There! 👋</h1>
 
-<div>
-  <a href="https://github.com/wallacevilela7">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallacevilela7&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-   <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacevilela7&layout=compact&langs_count=7&theme=aura_dark"/>
-</div>
-<div style="margin-top:200px"><br>
-  Social:<br>
-  <a href="https://www.linkedin.com/in/wallace-vilela-538728247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/_wallacevilela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-           badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/wallace-vilela-538728247/)
+[![Gmail Badge](https://img.shields.io/badge/-wallace.vilela9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallace.vilela9@gmail.com)](mailto:wallace.vilela9@gmail.com)
+
+## My name is Wallace Vilela
+(C# | .NET | .NET Core  | Javascript | HTML | CSS | Typescript | React JS ) 🚀
+- 👩‍💻 Fullstack Developer
+- 🎓 Systems Analysis and Development Student
+- 💡 Love a good challenge
+
+<div align="left">  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacevilela7&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
  </div>
