@@ -10,5 +10,7 @@
 - 💡 Love a good challenge
 
 <div align="left">  
+ 
 [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacevilela7&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+ 
  </div>
