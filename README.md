@@ -4,5 +4,7 @@
 ## My Skills
 (C# | .NET | .NET Core  | AWS | Javascript | HTML | CSS ) 🚀
 
+
+## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-vilela-538728247/)](https://www.linkedin.com/in/wallace-vilela-538728247/)
 [![Gmail Badge](https://img.shields.io/badge/-wallace.vilela9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallace.vilela9@gmail.com)](mailto:wallace.vilela9@gmail.com)
