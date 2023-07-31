@@ -4,13 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-wallace.vilela9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallace.vilela9@gmail.com)](mailto:wallace.vilela9@gmail.com)
 
 ## My name is Wallace Vilela
-(C# | .NET | .NET Core  | Javascript | HTML | CSS | Typescript | React JS ) 🚀
+(C# | .NET | .NET Core  | AWS | Javascript | HTML | CSS ) 🚀
+
 - 👩‍💻 Fullstack Developer
 - 🎓 Systems Analysis and Development Student
 - 💡 Love a good challenge
 
-<div align="left">  
- 
-[![Wallace top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacevilela7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- </div>
+<h4>Hello there! My name is Wallace Vilela, and I'm a passionate IT student currently pursuing my third period of graduation in Analysis and Development of Systems. Welcome to my GitHub, here I'll be presenting my projects, codes, and other contributions to the world of technology.</h4>
