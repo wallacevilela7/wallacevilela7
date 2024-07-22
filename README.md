@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Skills: (C# .NET | Java| Spring | AWS ) 
+  Skills: (Java| Spring Boot| AWS ) 
 </p>
 
 <p align="left">
