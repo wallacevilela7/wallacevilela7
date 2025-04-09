@@ -8,6 +8,3 @@
 <p align="left">
   <strong>Skills:</strong> (Java| Spring Boot| AWS ) 
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallacevilela7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</p>
